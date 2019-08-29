@@ -91,7 +91,7 @@
 // AnyCubic made the following changes to 1.1.0-RC8
 // If these are appropriate for your LCD let us know.
 //
-#if 0 && HAS_SPI_LCD
+//#if 0 && HAS_SPI_LCD
 
 // Fans
 #define FAN_PIN             9
